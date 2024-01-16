@@ -1,13 +1,16 @@
+Intro to Mongoose
 
+## Install
 
+=> npm init -y
 
-npm init -y
+=> npm install express --save
 
-npm install express --save
+=> npm i nodemon --save-dev
 
-npm i nodemon --save-dev
+=> npm i mongoose
 
-npm i mongoose
+## Add
 
 package.json
 "scripts":
@@ -15,3 +18,4 @@ package.json
     "dev": "nodemon src/index.js",
     "seed": "node src"
 
+npm start
