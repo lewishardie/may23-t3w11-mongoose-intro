@@ -21,4 +21,12 @@ package.json
     "seed": "node src"
 
 
-npm start
+
+
+## punymodule issue
+
+run mongodb as a background process with
+    => mongod --config /opt/homebrew/etc/mongod.conf --fork
+
+<!-- /////////// -->
+re-watch last 15 minutes of Tuesday Video
