@@ -1,3 +1,5 @@
+// require('dotenn').config();
+
 const mongoose = require('mongoose')
 const {databaseConnect} = require('./database');
 

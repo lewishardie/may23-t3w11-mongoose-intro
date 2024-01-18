@@ -12,6 +12,9 @@ Intro to Mongoose
 
 => npm i mongoose
 
+<!-- server -->
+=> npm i dotenv
+
 ### Modify scripts
 
 package.json
@@ -20,8 +23,7 @@ package.json
     "dev": "nodemon src/index.js",
     "seed": "node src"
 
-
-
+<!-- /////////// -->
 
 ## punymodule issue
 
@@ -29,4 +31,7 @@ run mongodb as a background process with
     => mongod --config /opt/homebrew/etc/mongod.conf --fork
 
 <!-- /////////// -->
-re-watch last 15 minutes of Tuesday Video
+
+re-watch last 15 minutes of Tuesday Video for mongoose website thingo
+
+
